@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Qanelas Soft';
+    src: local('Qanelas Soft Bold'), local('Qanelas-Soft-Bold'),
+        url('../fonts/Qanelas-Bold.woff2') format('woff2'),
+        url('../fonts/Qanelas-Bold.woff') format('woff'),
+        url('../fonts/Qanelas-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+  
